@@ -10,3 +10,4 @@ public class Fraction_use {
 	}
 
 }
+//can try and implement more methods
